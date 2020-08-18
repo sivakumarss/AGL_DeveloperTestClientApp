@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hv1CsJlL+HtN6BeDbKtz4eAK6LCnVJzQghzx8lkDTSHqohA4nvAwUC61Q+1frrbSCQfNN41opeRknfp+AhOsHg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sivak\\AGL_DeveloperTestClientApp\\AGL_DeveloperTestClientApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sivak\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}

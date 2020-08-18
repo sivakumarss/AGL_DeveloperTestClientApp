@@ -1,0 +1,15 @@
+C:\Users\sivak\AGL_DeveloperTestClientApp\bin\Debug\netcoreapp3.1\AGL_DeveloperTestClientApp.exe
+C:\Users\sivak\AGL_DeveloperTestClientApp\bin\Debug\netcoreapp3.1\AGL_DeveloperTestClientApp.deps.json
+C:\Users\sivak\AGL_DeveloperTestClientApp\bin\Debug\netcoreapp3.1\AGL_DeveloperTestClientApp.runtimeconfig.json
+C:\Users\sivak\AGL_DeveloperTestClientApp\bin\Debug\netcoreapp3.1\AGL_DeveloperTestClientApp.runtimeconfig.dev.json
+C:\Users\sivak\AGL_DeveloperTestClientApp\bin\Debug\netcoreapp3.1\AGL_DeveloperTestClientApp.dll
+C:\Users\sivak\AGL_DeveloperTestClientApp\bin\Debug\netcoreapp3.1\AGL_DeveloperTestClientApp.pdb
+C:\Users\sivak\AGL_DeveloperTestClientApp\obj\Debug\netcoreapp3.1\AGL_DeveloperTestClientApp.csprojAssemblyReference.cache
+C:\Users\sivak\AGL_DeveloperTestClientApp\obj\Debug\netcoreapp3.1\AGL_DeveloperTestClientApp.AssemblyInfoInputs.cache
+C:\Users\sivak\AGL_DeveloperTestClientApp\obj\Debug\netcoreapp3.1\AGL_DeveloperTestClientApp.AssemblyInfo.cs
+C:\Users\sivak\AGL_DeveloperTestClientApp\obj\Debug\netcoreapp3.1\AGL_DeveloperTestClientApp.csproj.CoreCompileInputs.cache
+C:\Users\sivak\AGL_DeveloperTestClientApp\obj\Debug\netcoreapp3.1\AGL_DeveloperTestClientApp.dll
+C:\Users\sivak\AGL_DeveloperTestClientApp\obj\Debug\netcoreapp3.1\AGL_DeveloperTestClientApp.pdb
+C:\Users\sivak\AGL_DeveloperTestClientApp\obj\Debug\netcoreapp3.1\AGL_DeveloperTestClientApp.genruntimeconfig.cache
+C:\Users\sivak\AGL_DeveloperTestClientApp\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\sivak\AGL_DeveloperTestClientApp\obj\Debug\netcoreapp3.1\AGL_DeveloperTestClientApp.csproj.CopyComplete
