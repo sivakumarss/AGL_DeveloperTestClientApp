@@ -31,7 +31,7 @@ namespace AGL_DeveloperTestClientApp
             var maleCats = new List<Cat>();
             var femaleCats = new List<Cat>();
 
-            var aglDeveloperTestApi = client.GetStreamAsync("http://agl-developer-test.azurewebsites.net/people.json");
+            var aglDeveloperTestApi = client.GetStreamAsync(Constants.AGL_DEVELOPERTEST_URL);
             var petOwners = await JsonSerializer.DeserializeAsync<List<PetOwner>>(await aglDeveloperTestApi);
             
             if(petOwners.Count <= 0 )
