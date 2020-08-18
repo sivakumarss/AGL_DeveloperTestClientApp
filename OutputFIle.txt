@@ -1,0 +1,10 @@
+Output:
+---Male--
+Garfield
+Jim
+Max
+Tom
+---Female--
+Garfield
+Simba
+Tabby
