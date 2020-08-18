@@ -8,3 +8,9 @@ Tom
 Garfield
 Simba
 Tabby
+
+
+Important URLs:
+http://agl-developer-test.azurewebsites.net/
+
+http://agl-developer-test.azurewebsites.net/people.json
